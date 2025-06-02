@@ -1,0 +1,20 @@
+{
+  "name": "INRCT Token List",
+  "logoURI": "https://raw.githubusercontent.com/SatishX-droid/assets/main/logo.png",
+  "keywords": ["INRCT", "INR Cash"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xbCc4EC5DE9f3B0F109d7EE4435A530C4499EFcB4",
+      "name": "INR Cash",
+      "symbol": "INRCT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SatishX-droid/assets/main/blockchains/smartchain/assets/0xbCc4EC5DE9f3B0F109d7EE4435A530C4499EFcB4/inr-cash-logo.png"
+    }
+  ]
+}
